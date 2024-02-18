@@ -1,0 +1,14 @@
+body {
+    background-color: skyblue;
+}
+
+.theSky {
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    border: 3px solid white;
+    color: white;
+    text-align: center;
+    width: 50%;
+    font-size: 50px;;
+}
