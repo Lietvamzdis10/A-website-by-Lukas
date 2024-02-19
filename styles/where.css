@@ -1,0 +1,36 @@
+body {background-color: skyblue;}
+
+.tab {
+    position: absolute;
+    height: 90px;
+    width: 200px;
+    left: -180px;
+    text-decoration: none;
+    color: black;
+    background-color: #ddd;
+    transition: 0.3s;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    font-size: large;
+}
+
+.tab:hover{
+    left: 3px;
+}
+
+#skies {
+    position: absolute;
+    top: 100px;
+    background-color: yellow;
+}
+#forever {
+    position: absolute;
+    top: 190px;
+    background-color: green;
+}
+
+#blue {
+    position: absolute;
+    top: 280px;
+    background-color: red;
+}
