@@ -1,4 +1,6 @@
-body {background-color: skyblue;}
+body {
+    background-color: skyblue;
+}
 
 .tab {
     position: absolute;
